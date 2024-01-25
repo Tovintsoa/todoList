@@ -15,7 +15,7 @@ Cette application Vue.js permet de gérer les tâches en utilisant les opératio
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/tonnomutilisateur/nom-du-repo.git
+git clone https://github.com/Tovintsoa/todoList.git
 ```
 
 2. Installation :
