@@ -26,6 +26,8 @@ npm install
 ```bash
 vite
 ```
+L'application sera lancé sur : http://localhost:5173/
+
 4. Téchnologies: 
 - Vue js 3
 -  vitejs/plugin-vue 4 

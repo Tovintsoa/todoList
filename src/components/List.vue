@@ -63,7 +63,7 @@ export default {
   },
   computed: {
     countTrueStates() {
-      return this.items.filter(item => item.state === true).length;
+      return this.items.filter(item => item.state === false).length;
     }
   },
    mounted() {

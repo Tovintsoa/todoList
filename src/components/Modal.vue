@@ -57,7 +57,8 @@ export default {
       let selectedTask = {
         id: document.getElementById('modal_selectedTaskId').value,
         name:  document.getElementById('modal_taskName').value,
-        description: document.getElementById('modal_taskDescription').value
+        description: document.getElementById('modal_taskDescription').value,
+        state: false
        }
       this.emitter.emit("updateTask", selectedTask);
 
